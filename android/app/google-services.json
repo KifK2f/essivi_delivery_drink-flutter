@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000761362671",
+    "project_id": "essivi-drink-delivery",
+    "storage_bucket": "essivi-drink-delivery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000761362671:android:7454684e9b4434a08bb31a",
+        "android_client_info": {
+          "package_name": "com.example.essivi_delivery_drink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzGpXVvlD05dgbcw8Dm8_uRqJabaPDtcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
